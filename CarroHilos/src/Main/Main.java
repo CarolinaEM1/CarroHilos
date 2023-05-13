@@ -6,7 +6,7 @@ package Main;
 
 /**
  *
- * @author luis2
+ * @author Carolina EM
  */
 import javax.swing.*;
 
